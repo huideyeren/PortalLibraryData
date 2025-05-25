@@ -1,16 +1,16 @@
 {
     "ReverseCategorys": false,
-    "ShowPrivateWorld": false,
+    "ShowPrivateWorld": true,
     "Categorys": [
         {
-            "Category": "シャオンちゃん",
+            "Category": "イノカシラ神話体系聖地",
             "Worlds": [
                 {
-                    "ID": "wrld_fb8d2807-1174-4894-8873-785b4daa1908",
-                    "Name": "シャオンちゃん交流会会場",
-                    "RecommendedCapacity": 20,
-                    "Capacity": 40,
-                    "Description": "シャオンちゃん試着会兼交流会場・歴代のシャオンちゃんモデルとか三面図とかキャラデザのギャラリーつき 2021⁄08⁄06 Unity2019対応",
+                    "ID": "wrld_6e5a0cf2-9ea4-4ccd-a165-c4b53d2945d1",
+                    "Name": "Inokashira-kōen Station（井の頭公園駅）",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "海外の方が再現した井の頭公園駅。ルイザらが住んでいる設定の場所。ほぼ全話に渡って登場する。",
                     "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
@@ -18,38 +18,264 @@
                     }              
                 },
                 {
-                    "ID": "wrld_466b6925-5e0c-4e7d-9e71-2a0c0057ff55",
-                    "Name": "BIG Shaon Avatar",
+                    "ID": "wrld_8e31d866-fb2e-4e65-a3a5-4ffcb7ce991a",
+                    "Name": "O通公園 ~北の大地~",
+                    "RecommendedCapacity": 32,
+                    "Capacity": 64,
+                    "Description": "札幌市の大通公園。カリンといっしょに行った北海道旅行の時に桔梗とビアガーデンで飲み交わした場所。残念ながらビアガーデンは再現されていない。『北海紀行』で登場。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_b952847f-1a03-43af-8e4d-896c439198d2",
+                    "Name": "VRススキノ",
                     "RecommendedCapacity": 16,
-                    "Capacity": 32,
-                    "Description": "大きいシャオンちゃんのワールド！",
+                    "Capacity": 64,
+                    "Description": "札幌市の南4条西4丁目、すすきの交差点。『北海紀行』でラーメンを食べに行った時に通った。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_7fd023b0-c563-41f5-8b54-e8e01879d7f7",
+                    "Name": "VketReal inVR 2023S Akiba",
+                    "RecommendedCapacity": 40,
+                    "Capacity": 80,
+                    "Description": "秋葉原で開かれたVketReal 2023 Summer会場のフォトグラメトリ。『北海紀行』で帰りに立ち寄っている",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_6409a742-ae13-405d-882e-8f96c8559e04",
+                    "Name": "Tokyo big sight",
+                    "RecommendedCapacity": 32,
+                    "Capacity": 80,
+                    "Description": "東京ビッグサイト。『夏の縁』と『冬の祝祭』で、コミックマーケットの会場として登場。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+
+                },
+                {
+                    "ID": "wrld_48042591-9c10-4df0-b66d-254db09fe6b0",
+                    "Name": "【JP】Virtual Dotonbori in OSAKA",
+                    "RecommendedCapacity": 48,
+                    "Capacity": 48,
+                    "Description": "バーチャル道頓堀。VRChat関西部の集会場として使われているが、2023年の阪神タイガースが「アレ」した際の記録小説、『アレ』にも登場した。",
                     "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
                         "Android": false
                     }
                 },
-                ...
-            ]
-        },
-        {
-            "Category": "サフィーちゃん",
-            "Worlds": [
                 {
-                    "ID": "wrld_d10b24de-be5e-4f94-b21e-bdd3dc3783a1",
-                    "Name": "Sapphy 1st Anniversary 会場",
+                    "ID": "wrld_b743c20a-7671-415f-8c25-7f21f4d7d956",
+                    "Name": "Vket非公式オフ会 カフェ＆シーシャバー Chill collection 渋谷センター街店",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "VketReal 2023 Winterの際に開かれたコミュニティの合同オフ会会場。『一年間の思い出を』に登場。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_99ef5e92-7ec5-49e1-8646-4062e20c3c09",
+                    "Name": "VketReal inVR 2023W Shibuhara",
                     "RecommendedCapacity": 30,
-                    "Capacity": 60,
-                    "Description": "サフィーちゃん誕生日会、兼、フォトコンテスト掲載Worldです。まだテスト中。",
+                    "Capacity": 40,
+                    "Description": "2023年末に渋谷・原宿で行われたVketReal 2023 Winterの会場。『一年間の思い出を』に登場。",
                     "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
                         "Android": false
-                    },
+                    }
                 },
-                ...
-             ]
+                {
+                    "ID": "wrld_3380ca07-2b6f-430e-a9b4-e3ee72f175af",
+                    "Name": "Yamanote Line E235",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "『冬の祝祭』で乗ったことが記されている、山手線の電車。実は井の頭公園駅の作者さんが作っている。いつまでたっても恵比寿駅に着かない。",
+                    "ReleaseStatus":"public",
+                    "Platform":{
+                        "PC":true,
+                        "Android":false
+                    }
+                },
+                {
+                    "ID": "wrld_dcd70ac6-a0d0-4e2b-bab1-3fe7633146bd",
+                    "Name": "JRA 中山競馬場 Nakayama Racecourse",
+                    "RecommendedCapacity": 40,
+                    "Capacity": 80,
+                    "Description": "中山競馬場。ワールドでは馬に乗れる。2023年末の有馬記念にライムちゃんが行った場所。『私の夢』に登場。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_a24f2442-756a-43c7-83ce-d9e3eae0f6e8",
+                    "Name": "SHIOLI - SLIM Landing Site",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 80,
+                    "Description": "『かぐやよ、聞いてくれ！』に登場するSLIMの月面着陸を体験できるワールド。",
+                    "ReleaseStatus":"public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_079e59a7-5a30-4a2d-ac99-22b0835fe946",
+                    "Name": "Zeniarai Benzaiten Shrine -Day-",
+                    "RecommendedCapacity": 32,
+                    "Capacity": 64,
+                    "Description": "『あの夏、あの海で』に登場する鎌倉の銭洗弁財天。ワールドでは桜が咲いているが、小説の中では夏。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_00ee7c47-f767-4115-ae24-6d483e864d48",
+                    "Name": "江ノ島 七里ヶ浜",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "『Project Summer Location』に寄稿した写真の際の旅行記である、『あの夏、あの海へ』の目的地。実際には泳げない場所。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_28cb3044-b883-467a-b841-6de11ca13a31",
+                    "Name": "精霊宿りし輝晶の泉 -Spirits Crystalline Spring-",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "『キラキラの実を探して』で、精霊の木の実があった場所。精霊をかごに入れて……。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_02cb84c8-446a-484b-b52b-2c1777e55f8d",
+                    "Name": "Japan Street",
+                    "RecommendedCapacity": 60,
+                    "Capacity": 80,
+                    "Description": "亜京市と呼ばれる仮想現実上の街。『今夜、亜京市の公園で』に登場する、マヌカちゃんが喫茶店を営んでいる場所。『ラスクさんぽ』の舞台でもある。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC":true,
+                        "Android":false
+                    }
+                },
+                {
+                    "ID": "wrld_fa6f8cf1-0ce3-41d1-b334-95e7572e245f",
+                    "Name": "昔秋葉原の近くにあった博物館",
+                    "RecommendedCapacity": 32,
+                    "Capacity": 64,
+                    "Description": "『藍に彩られたこの街で』に登場する、万世橋の近くにあった博物館。現存しない。",
+                    "ReleaseStatus":"public",
+                    "Platform": {
+                        "PC":true,
+                        "Android":false
+                    }
+                },
+                {
+                    "ID": "wrld_41155a46-13bc-4b1e-be0f-769c88099b14",
+                    "Name": "津波を刻む建物 （Documenting the Tsunami）",
+                    "RecommendedCapacity": 30,
+                    "Capacity": 30,
+                    "Description": "秋葉原の街を東日本大震災と同じ高さの津波が襲ったら、という想定で作られたワールド。『藍に彩られたこの街で』でも想像の光景として登場する。",
+                    "ReleaseStatus":"public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_7358ac5f-38c4-4610-87f2-b221ba3c0c8f",
+                    "Name": "虎ノ門深海水族館",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "虎ノ門ヒルズの建物の中が「波の下」になっている場所。『藍に彩られたこの街で』に登場する。しなのちゃん一行がアンクル・アーチャーフィッシュと出会った。",
+                    "ReleaseStatus": "public",
+                    "Platform":{
+                        "PC":true,
+                        "Android":false
+                    }
+                },
+                {
+                    "ID": "wrld_dcc4a686-b7bf-437d-90a0-bb69bec0b405",
+                    "Name": "The Tokyo Skytree",
+                    "RecommendedCapacity": 40,
+                    "Capacity": 80,
+                    "Description": "東京スカイツリー。『藍に彩られたこの街で』には塔の下から見た光景が登場する。真冬ちゃんが高所恐怖症で上がれなかったため、この景色は見られなかった。",
+                    "ReleaseStatus":"public",
+                    "Platform":{
+                        "PC":true,
+                        "Android":false
+                    }
+                },
+                {
+                    "ID": "wrld_795ddf7d-c059-442b-8108-6294b6dfdc2a",
+                    "Name": "アスタリスクの花言葉",
+                    "RecommendedCapacity": 10,
+                    "Capacity": 20,
+                    "Description": "ヨツミフレームさんの謎ときワールド。実は『藍に彩られたこの街で』の後半における謎ときの鍵になっている。",
+                    "ReleaseStatus":"public",
+                    "Platform": {
+                        "PC": true,
+                        "Android":false
+                    }
+                }
+            ]
         },
-        ...
+        {
+            "Category": "VRChat創作関連",
+            "Worlds": [
+                {
+                    "ID": "wrld_f6416d47-268a-4f2e-8e38-1a409831af4d",
+                    "Name": "ラスクさんぽマンガワールド -RUSK SANPO MANGA WORLD-",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "亜京市を舞台とするクロイヌヨウヘイさんの『ラスクさんぽ』が読めるワールド。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_cd137b01-40a6-4276-a685-7fdedeeee142",
+                    "Name": "Comic Tamanatsu Museum",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "たまなつちゃんたちがわちゃわちゃする『漫画版たま☆なつ』が読めるワールド。実はたまなつちゃん合同誌で、たまなつちゃんたちとは井の頭公園駅で出会っていたりする。",
+                    "ReleaseStatus": "public",
+                    "Platform":{
+                        "PC":true,
+                        "Android":true
+                    }
+                }
+             ]
+        }
     ]
 }
