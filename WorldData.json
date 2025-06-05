@@ -249,9 +249,170 @@
             ]
         },
         {
-            "Category": "VRChat創作関連",
+            "Category": "るいざのワールド",
             "Worlds": [
                 {
+                    "ID": "wrld_d3de5929-fc18-421e-963a-d8b957bb8c8d",
+                    "Name": "ルイザ・シャーロット記念文学館",
+                    "RecommendedCapacity": 15,
+                    "Capacity": 30,
+                    "Description": "これまでに公開された全ての小説が載っているワールド。ギャラリーで読める。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_d59619fd-20b7-4504-bcdd-c5e6d161affe",
+                    "Name": "小さなカンファレンスルーム",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "Sliden、IwaSync3完備。勉強会などにお使いください。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_296e9858-1549-4df4-a93c-3807ec27a179",
+                    "Name": "Louisa's Island",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "南の島で過ごす、ゆったりと時間の流れるひととき。まだ作成中。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }
+            ]
+        },
+        {
+            "Category": "学びのあるワールド",
+            "Worlds": [
+                {
+                    "ID": "wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
+                    "Name": "VR宇宙博物館 コスモリア",
+                    "RecommendedCapacity": 25,
+                    "Capacity": 50,
+                    "Description": "VSP天文仮想研究所による、宇宙のことがわかる、壮大な博物館。クオリティにはいつも驚かされる。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_74f12c29-b3dc-4fed-be76-38524aa95439",
+                    "Name": "偏見で学ぶローマ皇帝",
+                    "RecommendedCapacity": 54,
+                    "Capacity": 54,
+                    "Description": "東ローマ帝国の一部も含むローマ皇帝が紹介されている。なかなか毒舌。そして知っているとにやりと笑える。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC":true,
+                        "Android":true
+                    }
+                },
+                {
+                    "ID": "wrld_2543e8aa-0794-4b4a-9267-96a5fef5cc05",
+                    "Name": "日本人が勝手に作ったロシア紹介ワールド",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "ローマ帝国のワールドにインスパイヤされた、ロシアの紹介ワールド。ここもなかなか詳しく、日露戦争の記述もある。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_dce914d1-0daf-43d2-b794-e085f4bb5bcb",
+                    "Name": "Questラーメン集会所２",
+                    "RecommendedCapacity": 32,
+                    "Capacity": 32,
+                    "Description": "ユーザー投稿によるラーメン情報が集まるワールド。毎月11日23時からイベント。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC":true,
+                        "Android":true
+                    }
+                },
+                {
+                    "ID": "wrld_99924ad6-6bb9-479c-8835-282f0a634f60",
+                    "Name": "NDC Library",
+                    "RecommendedCapacity":16,
+                    "Capacity":32,
+                    "Description": "日本十進分類法で青空文庫の本が読めるワールド。本だらけで実に圧巻。",
+                    "ReleaseStatus":"public",
+                    "Platform": {
+                        "PC":true,
+                        "Android":true
+                    }
+                },
+                {
+                    "ID": "wrld_867a7613-893e-40c1-9b19-4527d74a0ff5",
+                    "Name": "中国ミーム博物館 日本語版",
+                    "RecommendedCapacity": 70,
+                    "Capacity": 70,
+                    "Description": "中国コミュニティで大人気のVRChatワールド、中国ミーム博物館。あれ、半数以上が日本製なのは気にしない方向なんだろうか……。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_926fd1f9-ec06-4bd4-8c7a-0d5a61df80d5",
+                    "Name": "COOL JAPANESE LEARNING WONDERLAND",
+                    "RecommendedCapacity": 40,
+                    "Capacity":80,
+                    "Description": "蕎麦屋タナベ氏にほる日本語学習ワールド。実にPOP。",
+                    "ReleaseStatus":"public",
+                    "Platform": {
+                        "PC":true,
+                        "Android":true
+                    }
+                },
+                {
+                    "ID": "wrld_a15c967e-702c-4cbf-992f-04f83ade59be",
+                    "Name": "VR-Hinankunren",
+                    "RecommendedCapacity": 40,
+                    "Capacity":80,
+                    "Description": "これも蕎麦屋タナベ氏による避難訓練ワールド。ちゃんと恐いが、備えあれば憂い無し。",
+                    "ReleaseStatus":"public",
+                    "Platform":{
+                        "PC":true,
+                        "Android":false
+                    }
+                },
+                {
+                    "ID": "wrld_88fbc7a1-ef29-4d29-a052-f0214d6c7f7a",
+                    "Name": "語り続ける戦争遺跡",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "中日新聞社による、太平洋戦争の戦災記録を記録したワールド。実に生々しい。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC":true,
+                        "Android": true
+                    }
+                },
+                {
+                    "ID": "wrld_3029c955-91e4-42af-b761-2cc53f267137",
+                    "Name": "帝国陸海軍兵器展示場",
+                    "RecommendedCapacity": 80,
+                    "Capacity": 80,
+                    "Description": "日本軍の兵器を集めたワールド。かなり重いが、いろいろな兵器が展示されているのは圧巻。",
+                    "ReleaseStatus":"public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                                {
                     "ID": "wrld_f6416d47-268a-4f2e-8e38-1a409831af4d",
                     "Name": "ラスクさんぽマンガワールド -RUSK SANPO MANGA WORLD-",
                     "RecommendedCapacity": 16,
@@ -274,8 +435,121 @@
                         "PC":true,
                         "Android":true
                     }
+                },
+                {
+                    "ID": "wrld_f2a22dfc-ac50-4608-89d7-c8e3e9e619c3",
+                    "Name": "BostonTeaParty",
+                    "RecommendedCapacity": 43,
+                    "Capacity": 50,
+                    "Description": "VR歴史体験コンテンツの白眉、ボストン茶会事件。波の下にも茶箱の候ぞ。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC":true,
+                        "Android":false
+                    }
+                },
+                {
+                    "ID": "wrld_a3721aaa-3c06-4ce2-9b70-390add2a85b1",
+                    "Name": "VRChatここから始めました",
+                    "RecommendedCapacity":48,
+                    "Capacity":48,
+                    "Description": "VRChat史を記録した年表ワールド。過去を知りたい者、ここへ行くとよかろう。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC":true,
+                        "Android":true
+                    }
+                },
+                {
+                    "ID": "wrld_d91fec3f-940c-49b1-9815-671ccb10cb22",
+                    "Name": "Bloodbath",
+                    "RecommendedCapacity": 30,
+                    "Capacity": 60,
+                    "Description": "ロシアのウクライナ侵略の際の、ズミイヌイ島攻防戦が記録されたワールド。波の下にもモスクワの候ぞ。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC":true,
+                        "Android":true
+                    }
+                },
+                {
+                    "ID": "wrld_be77c516-8d56-4ae2-8729-f6399bbd8e43",
+                    "Name": "Korean Study Museum JPN",
+                    "RecommendedCapacity": 40,
+                    "Capacity":80,
+                    "Description": "韓国語学習ワールド。実に幅広く紹介されている。「すごく犬なここあちゃん」の表示が面白い。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC":true,
+                        "Android":false
+                    }
                 }
-             ]
+            ]
+        },
+        {
+            "Category": "海・プール・温泉",
+            "Worlds": [
+                {
+                    "ID": "wrld_1b2582fc-e807-4151-9973-3277e32b615e",
+                    "Name": "That Pool",
+                    "RecommendedCapacity": 32,
+                    "Capacity": 64,
+                    "Description": "グラビア撮影などでお馴染み、「例のプール」。現実世界では新宿御苑前駅あたりにあり、たまに撮影会が開かれる。",
+                    "ReleaseStatus":"public",
+                    "Platform":{
+                        "PC":true,
+                        "Android":false
+                    }
+                },
+                {
+                    "ID": "wrld_b795f66f-4181-4200-92bb-c040bc6f2188",
+                    "Name": "Azure Swimming Pool - Pripyat",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "ウクライナのチョルノーブィリ原発の職員のための都市、プリピャチにあったプール。FPSゲーマーの間で「例のプール」として有名。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC":true,
+                        "Android":false
+                    }
+                },
+                {
+                    "ID": "wrld_168c1866-1190-4e8a-aa48-3d9f9bdedeca",
+                    "Name": "Cursed Pool",
+                    "RecommendedCapacity": 25,
+                    "Capacity": 50,
+                    "Description": "ウクライナにあるSanatorium Ingulという療養所系ホテルのプール。このプールの水は温泉を使用している模様。",
+                    "ReleaseStatus":"public",
+                    "Platform":{
+                        "PC":true,
+                        "Android":false
+                    }
+                },
+                {
+                    "ID": "wrld_e96388b4-f0b2-4265-ab33-1cd248d6223a",
+                    "Name": "1969 house pool",
+                    "RecommendedCapacity":40,
+                    "Capacity":80,
+                    "Description": "ドイツの新聞社、シュピーゲルの旧本社にあったプール。旧本社は火事で焼失してしまったため現存しない。",
+                    "ReleaseStatus":"public",
+                    "Platform":{
+                        "PC":true,
+                        "Android":true
+                    }
+                },
+                {
+                    "ID": "wrld_ca3748a6-df7f-42cc-ba26-e9a07347d70f",
+                    "Name": "Queen Bella's Mexican Beach Hideaway",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "メキシコ風のプールのある邸宅。海でも泳げるし、沖のクルーザーにも行ける。これでAndroid対応なのはびっくり。",
+                    "ReleaseStatus":"public",
+                    "Platform":{
+                        "PC":true,
+                        "Android":true
+                    }
+                }
+            ]
         }
     ]
 }
