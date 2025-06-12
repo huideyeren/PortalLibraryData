@@ -550,6 +550,21 @@
                     }
                 }
             ]
+        },
+        {
+            "Category": "隠された地",
+            "Worlds": [
+                {
+                    "ID": "wrld_99f70976-0ee5-407f-b5fa-1752dd8986f6",
+                    "Name": "恵比寿駅",
+                    "Description": "山手線が停まるはずだったはずの駅。近くに某H社がある。",
+                    "ReleaseStatus": "invite",
+                    "Platform":{
+                        "PC":true,
+                        "Android":false
+                    }
+                }
+            ]
         }
     ]
 }
